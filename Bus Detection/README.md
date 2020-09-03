@@ -4,5 +4,5 @@ Bus detection using computer vision library
 
 ## Result
 
-![gif](https://user-images.githubusercontent.com/68801296/92075771-d4f79100-edd6-11ea-8780-4497515a2f15.gif)
+![gif](https://user-images.githubusercontent.com/68801296/92075694-a7124c80-edd6-11ea-9eab-38bf294e49fc.gif)
 
