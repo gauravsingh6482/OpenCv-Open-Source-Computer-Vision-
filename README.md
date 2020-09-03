@@ -1,6 +1,6 @@
-# OpenCv2-Open-Source-Computer-Vision-
+# OpenCv-Open-Source-Computer-Vision-
 
-## OpenCv2 (Open Source Computer Vision)
+## OpenCv (Open Source Computer Vision)
 
 ![image](https://user-images.githubusercontent.com/68801296/92073972-99f35e80-edd2-11ea-9865-e00d8bf8947a.png)
 
